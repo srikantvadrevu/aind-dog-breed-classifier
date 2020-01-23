@@ -9,11 +9,12 @@
 
 Built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
+Have done this as part of Udacity Artifical Intelligence Nano degree program, my solution code is present in mysolution.ipynb file.
 ![Sample Output][image1]
 
 ### Instructions
 
-1. Clone the repository and navigate to the downloaded folder.
+1. Clone the original project repository and navigate to the downloaded folder.
 ```	
 git clone https://github.com/udacity/dog-project.git
 cd dog-project
